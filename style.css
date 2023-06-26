@@ -1,0 +1,15 @@
+* {
+}
+
+body {
+  background-color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  width: 400px;
+  height: 400px;
+  background-color: #300651;
+}
